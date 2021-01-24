@@ -26,6 +26,5 @@ Command Block Setup
 
 </p>
 
-</h2>
 
 <br/>
