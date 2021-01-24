@@ -10,7 +10,11 @@ layout: default
 <p>
 
 Copy the Command and paste it in the Command Block: <br/><br/>
-<iframe src="https://myoctagon.github.io/asset/droneonecmd/command.html" width="90%"></iframe>
+If you are in version 1.16.5+:<br/><br/>
+<iframe src="https://myoctagon.github.io/asset/droneonecmd/command.html" width="90%"></iframe><br/><br/>
+
+If you are in older version:<br/><br/>
+<iframe src="https://myoctagon.github.io/asset/droneonecmd/commandold.html" width="90%"></iframe><br/><br/>
 
 </p>
 
