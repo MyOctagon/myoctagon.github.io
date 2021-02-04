@@ -2,7 +2,7 @@
 title: Minecraft Cozy Cabin
 buildname: Cozy Cabin
 subtitle: Layouts and material lists
-media: <iframe type="text/html" width="600" height="400" src="https://www.youtube.com/embed/..." frameborder="0"></iframe>
+media: <iframe type="text/html" width="600" height="400" src="https://www.youtube.com/embed/7oqZpP4I1nc" frameborder="0"></iframe>
 description: A small but cozy cabin in a hexagon shape made of Dark Oak and Blue terracotta. Nice looking, unique and easy to build! Scroll down to get the layouts and material lists.
 layout: default
 ---
