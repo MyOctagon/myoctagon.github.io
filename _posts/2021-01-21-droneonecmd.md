@@ -2,9 +2,11 @@
 title: Drone in minecraft using only one command
 buildname: Drone
 subtitle: Working drone in minecraft using 1 command
-media: <iframe type="text/html" width="600" height="400" src="https://www.youtube.com/embed/QND9rjpxEEo" frameborder="0"></iframe>
+media:  <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/QND9rjpxEEo"></iframe>
+  </div>
 description: Get fully functional drones in minecraft using only one command! The drones can be moved using a remote controller. The can drop TNTs too.
-tags: minecraft,minecraft commands,minecraft drone,minecraft drone command,theredengineer drone,multitask drone,minecraft multitask drones,theredengineer drone command,theredengineer command blocks,minecraft only one command,vanilla mod,minecraft 1.11,minecraft 1.16,1.16 one command,1 command,minecraft drone tutorial,minecraft drone mod,how to make a drone in minecraft,how to make a working drone in minecraft,how to make a remote control drone in minecraft,drone
+tags: minecraft,minecraft commands,minecraft drone,minecraft drone command,theredengineer drone,multitask drone,minecraft multitask drones,theredengineer drone command,theredengineer
 layout: default
 ---
 
