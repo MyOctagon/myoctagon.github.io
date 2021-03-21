@@ -5,4 +5,4 @@ subtitle: List of all post in Octagon Gaming
 layout: list
 ---
 
-#List of every post
+<h1> List of every post </h1> <br/>
