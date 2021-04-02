@@ -13,10 +13,10 @@ layout: default
 <p>
 
 Copy the Command and paste it in the Command Block: <br/><br/>
-If you are in version 1.16.5+:<br/><br/>
+If you are in version <b>1.17+</b>:<br/><br/>
 <iframe src="https://myoctagon.github.io/asset/droneonecmd/command.html" width="90%"></iframe><br/><br/>
 
-If you are in older version:<br/><br/>
+If you are in <b>1.16</b> or older version:<br/><br/>
 <iframe src="https://myoctagon.github.io/asset/droneonecmd/commandold.html" width="90%"></iframe><br/><br/>
 
 </p>
