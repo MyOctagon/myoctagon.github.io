@@ -1,5 +1,5 @@
 ---
-title: Minecraft Mini Modern House
+title: Mini Modern House
 buildname: Mini Modern House
 subtitle: Layouts and material lists
 media:  <div class="embed-responsive embed-responsive-16by9">
